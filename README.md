@@ -39,7 +39,6 @@ project-folder/
 |-- index.html       # Main HTML file
 |-- style.css        # CSS file for styling
 |-- script.js        # JavaScript file for functionality
-|-- assets/          # Folder for images and icons
 ```
 
 ## How to Use

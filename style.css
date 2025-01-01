@@ -194,3 +194,9 @@ body {
 .delete-task img {
     height: 30px;
 }
+
+@media only screen and (max-width: 700px) {
+    .modal-content{
+        width: 250px;
+    }
+}

@@ -1,7 +1,7 @@
 {
   "name": "to-do-list",
   "version": "0.1.0",
-  "homepage": "https://neev-ahuja.github.io/to-do-list",
+  "homepage": "https://neev-ahuja.github.io/To-Do-List/",
   "private": true,
   "dependencies": {
     "cra-template": "1.2.0",

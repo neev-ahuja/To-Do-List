@@ -11,7 +11,7 @@ A simple and efficient **To-Do List** application built using **ReactJS**. This 
 
 ## 🚀 Demo
 
-You can check out the live demo [here](#) (add your live link).
+You can check out the live demo [here](#).
 
 ---
 
@@ -54,10 +54,11 @@ Here’s a clean and professional README.md template for your ReactJS To-Do List
 │   ├── index.html
 │   └── ...
 ├── src
-│   ├── components
-│   │   ├── Task.js
-│   │   └── TaskList.js
 │   ├── App.js
+│   ├── AddTask.js
+│   ├── Cotainer.js
+│   ├── Footer.js
+│   ├── Header.js
 │   ├── index.js
 │   └── App.css
 ├── package.json
@@ -68,34 +69,16 @@ Here’s a clean and professional README.md template for your ReactJS To-Do List
 
 ## 🖼️ Screenshots
 
-### Task Management Interface
-![Task List](https://via.placeholder.com/800x400.png?text=Screenshot+Coming+Soon)
-
----
-
-## 🤝 Contributing
-
-Contributions, issues, and feature requests are welcome!  
-Feel free to check the [issues page](#) (add your issues link).
-
----
-
-## 📜 License
-
-This project is licensed under the **MIT License**.  
-See the [LICENSE](LICENSE) file for details.
-
 ---
 
 ## 📧 Contact
 
 If you have any questions or suggestions, feel free to reach out at:  
-📧 [your.email@example.com](mailto:your.email@example.com)  
+📧 [your.email@example.com](mailto:neevahuja888@fmail.com)  
 
 ---
 
 ### ⭐ Don't forget to star this repository if you find it helpful!
 ```
 
-Feel free to replace placeholders (e.g., "yourusername," "your.email@example.com," links, and screenshots) with your own information. Let me know if you need help customizing it further!
 

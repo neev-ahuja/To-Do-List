@@ -21,7 +21,7 @@ To run this project locally, follow these steps:
 
 1. **Clone the repository**  
    ```bash
-   git clone https://github.com/yourusername/todo-list-react.git
+   git clone https://github.com/neev-ahuja/To-Do-List.git
    cd todo-list-react
 Here’s a clean and professional README.md template for your ReactJS To-Do List project:  
 

@@ -11,7 +11,7 @@ A simple and efficient **To-Do List** application built using **ReactJS**. This 
 
 ## 🚀 Demo
 
-You can check out the live demo [here](#).
+You can check out the live demo [here](https://neev-ahuja.github.io/To-Do-List/).
 
 ---
 
@@ -74,7 +74,7 @@ Here’s a clean and professional README.md template for your ReactJS To-Do List
 ## 📧 Contact
 
 If you have any questions or suggestions, feel free to reach out at:  
-📧 [your.email@example.com](mailto:neevahuja888@fmail.com)  
+📧 [neevahuja888@gmail.com](mailto:neevahuja888@gmail.com)  
 
 ---
 
